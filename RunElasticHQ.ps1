@@ -1,0 +1,1 @@
+& python 'C:\Program Files\elasticsearch-HQ\application.py'
