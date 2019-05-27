@@ -1,0 +1,1 @@
+Invoke-RestMethod "http://localhost:9200/leads_v1" -Method Delete
